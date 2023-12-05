@@ -1,1 +1,1 @@
-# Assignments and projects of courses of Master MVA
+# Assignments and projects of courses of Master MVA 2023-2024
